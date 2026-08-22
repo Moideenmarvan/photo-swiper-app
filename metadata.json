@@ -1,0 +1,6 @@
+{
+  "name": "Deep Folder Photo Cleaner",
+  "description": "Native Android & Jetpack Compose card-swiping photo cleaner with deep-folder recursive scanning, MANAGE_EXTERNAL_STORAGE & SAF support, instant deletion, and undo controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
